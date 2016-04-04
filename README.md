@@ -33,3 +33,7 @@ This example is ...
 [linuxorg-syscalls]: http://www.linux.org/threads/the-linux-kernel-intro-to-system-calls.5611
 
 [1]: http://duartes.org/gustavo/blog/img/os/syscallExit.png
+
+##llamada.c 
+This is an example of the system call for me.
+
