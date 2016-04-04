@@ -35,5 +35,5 @@ This example is ...
 [1]: http://duartes.org/gustavo/blog/img/os/syscallExit.png
 
 ##llamada.c 
-This is an example of the system call for me.
+En las siguientes líneas se muestran un programa que emplean las llamadas al sistema. Este ejemplo crea un fichero y escribe en él unos caracteres.
 
