@@ -15,6 +15,15 @@ More info: [**Syscall from A to Z**][linuxorg-syscalls]
 * Learn how to use syscalls from C source code
 * Learn how to use syscalls related with process management
 
+#Llamadas al sistema:
+Las llamadas al sistema, como su nombre lo indica son llamadas que se realizan a controladores, tambien pedir y realizar solicitudes al sistema operativo, haciendo uso de los servicios que tiene implementado este. Por ejemplo:
+
+*Fork
+*Wait
+*Stop
+*start
+*etc.
+
 #Description
 ##syscl_1.c
 
@@ -36,4 +45,6 @@ This example is ...
 
 ##llamada.c 
 En las siguientes líneas se muestran un programa que emplean las llamadas al sistema. Este ejemplo crea un fichero y escribe en él unos caracteres.
+
+
 
